@@ -1,0 +1,11 @@
+@import url(../vendor/normalize.css);
+
+@import url(../blocks/page/page.css);
+@import url(../blocks/page/__wrapper/page__wrapper.css);
+
+@import url(../blocks/hero/hero.css);
+@import url(../blocks/hero/__img/hero__img.css);
+@import url(../blocks/hero/__text/hero__text.css);
+@import url(../blocks/hero/__title/hero__title.css);
+
+@import url(../blocks/header/header.css);
