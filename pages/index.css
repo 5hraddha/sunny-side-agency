@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500&family=Fraunces:wght@400;500;600;700&display=swap');
+
 @import url(../vendor/normalize.css);
 
 @import url(../blocks/page/page.css);
@@ -9,3 +12,28 @@
 @import url(../blocks/hero/__title/hero__title.css);
 
 @import url(../blocks/header/header.css);
+
+@import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/__item/menu__item.css);
+@import url(../blocks/menu/__link/menu__link.css);
+@import url(../blocks/menu/__list/menu__list.css);
+
+@import url(../blocks/btn/btn.css);
+
+@import url(../blocks/logo/logo.css);
+
+@import url(../blocks/general/general.css);
+
+@import url(../blocks/article/article.css);
+@import url(../blocks/article/__content/article__content.css);
+@import url(../blocks/article/__img-item/article__img-item.css);
+@import url(../blocks/article/__img/article__img.css);
+@import url(../blocks/article/__link/article__link.css);
+@import url(../blocks/article/__link/_color/article__link_color_red.css);
+@import url(../blocks/article/__link/_color/article__link_color_yellow.css);
+@import url(../blocks/article/__para/article__para.css);
+@import url(../blocks/article/__title/article__title.css);
+
+@import url(../blocks/standout/standout.css);
+
+@import url(../blocks/transform/transform.css);

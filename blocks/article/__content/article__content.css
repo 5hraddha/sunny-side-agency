@@ -1,0 +1,7 @@
+.article__content {
+  margin: 0;
+  padding: 0;
+  place-self: center;
+  width: 100%;
+  max-width: 468px;
+}

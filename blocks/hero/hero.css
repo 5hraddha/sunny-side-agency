@@ -1,7 +1,12 @@
 .hero {
+  box-sizing: border-box;
   margin: 0;
-  padding: 0;
-  min-height: 640px;
+  padding: 0 0 120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 552px;
   background: #3dbeff;
   background-image: url(../../images/desktop/image-header.jpg);
   background-repeat: no-repeat;

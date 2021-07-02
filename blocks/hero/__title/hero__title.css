@@ -1,0 +1,11 @@
+.hero__title {
+  margin: 0;
+  padding: 0 0 45px;
+  font-family: 'Fraunces', serif;
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 50px;
+  line-height: 1.242;
+  font-weight: 700;
+  letter-spacing: 8px;
+}

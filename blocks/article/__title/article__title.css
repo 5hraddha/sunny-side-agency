@@ -1,0 +1,8 @@
+.article__title {
+  margin: 0;
+  padding: 0;
+  font-family: 'Fraunces', serif;
+  font-size: 48px;
+  line-height: 1.242;
+  font-weight: 700;
+}
