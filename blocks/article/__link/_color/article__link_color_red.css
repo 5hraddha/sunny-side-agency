@@ -1,0 +1,21 @@
+.article__link_color_red {
+  position: relative;
+}
+
+.article__link_color_red::before {
+  content: "";
+  position: absolute;
+  bottom: 0px;
+  left: 0;
+  height: 10px;
+  width: 100%;
+  background-color: rgba(255, 115, 100, 0.15);
+  border-radius: 20px;
+  z-index: -1;
+  transition: all 0.2s ease-in;
+}
+
+.article__link_color_red:hover::before {
+  background-color: rgba(255, 115, 100, 0.7);
+  transform: scale(1.1);
+}
