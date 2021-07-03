@@ -1,3 +1,11 @@
 .testimonials {
-  
+  box-sizing: border-box;
+  margin: 0;
+  padding: 40px 0;
+  min-height: 920px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid blue;
 }

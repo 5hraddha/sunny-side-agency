@@ -1,0 +1,8 @@
+.card__img {
+  margin: 20px 0 75px;
+  padding: 0;
+  display: block;
+  width: 100%;
+  max-width: 144px;
+  border-radius: 50%;
+}

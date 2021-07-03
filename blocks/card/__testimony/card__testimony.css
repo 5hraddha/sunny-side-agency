@@ -1,0 +1,11 @@
+.card__testimony {
+  margin: 0 0 auto;
+  padding: 0;
+  width: 100%;
+  max-width: 345px;
+  font-size: 24px;
+  line-height: 1.5;
+  font-weight: 400;
+  text-align: center;
+  color: rgb(90, 99, 108);
+}

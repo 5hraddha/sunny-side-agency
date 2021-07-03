@@ -1,3 +1,14 @@
 .testimonials__title {
-  
+  margin: 0;
+  padding: 0 0 80px;
+  width: 100%;
+  max-width: 80%;
+  font-family: 'Fraunces', serif;
+  text-transform: uppercase;
+  color: rgba(90, 99, 108, 0.5);
+  font-size: 48px;
+  line-height: 1.242;
+  font-weight: 300;
+  letter-spacing: 8px;
+  text-align: center;
 }
