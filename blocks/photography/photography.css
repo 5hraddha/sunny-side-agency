@@ -1,0 +1,12 @@
+.photography {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: rgb(91, 203, 255);
+  background-image: url(../../images/desktop/image-photography.jpg);
+  background-repeat: no-repeat;
+  background-size: 600px auto;
+  background-position: center top;
+}

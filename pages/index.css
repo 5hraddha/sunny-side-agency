@@ -34,6 +34,25 @@
 @import url(../blocks/article/__para/article__para.css);
 @import url(../blocks/article/__title/article__title.css);
 
-@import url(../blocks/standout/standout.css);
+@import url(../blocks/photo-and-graphics/photo-and-graphics.css);
 
-@import url(../blocks/transform/transform.css);
+@import url(../blocks/photography/photography.css);
+@import url(../blocks/photography/__content/photography__content.css);
+@import url(../blocks/photography/__para/photography__para.css);
+@import url(../blocks/photography/__title/photography__title.css);
+
+@import url(../blocks/graphics/graphics.css);
+@import url(../blocks/graphics/__content/graphics__content.css);
+@import url(../blocks/graphics/__para/graphics__para.css);
+@import url(../blocks/graphics/__title/graphics__title.css);
+
+@import url(../blocks/testimonials/testimonials.css);
+@import url(../blocks/testimonials/__title/testimonials__title.css);
+
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__client-details/card__client-details.css);
+@import url(../blocks/card/__client-job/card__client-job.css);
+@import url(../blocks/card/__client-name/card__client-name.css);
+@import url(../blocks/card/__img/card__img.css);
+@import url(../blocks/card/__testimony/card__testimony.css);

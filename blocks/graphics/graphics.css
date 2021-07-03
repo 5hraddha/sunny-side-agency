@@ -1,0 +1,12 @@
+.graphics {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: rgb(153, 217, 203);
+  background-image: url(../../images/desktop/image-graphic-design.jpg);
+  background-repeat: no-repeat;
+  background-size: 512px auto;
+  background-position: center top;
+}
