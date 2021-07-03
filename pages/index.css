@@ -56,3 +56,8 @@
 @import url(../blocks/card/__client-name/card__client-name.css);
 @import url(../blocks/card/__img/card__img.css);
 @import url(../blocks/card/__testimony/card__testimony.css);
+
+@import url(../blocks/image-gallery/image-gallery.css);
+@import url(../blocks/image-gallery/__img/image-gallery__img.css);
+@import url(../blocks/image-gallery/__list-item/image-gallery__list-item.css);
+@import url(../blocks/image-gallery/__list/image-gallery__list.css);

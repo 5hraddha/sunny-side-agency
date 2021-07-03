@@ -1,0 +1,14 @@
+.image-gallery__list {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-auto-rows: minmax(447px, auto);
+  list-style: none;
+}
+
+@media screen and (max-width: 950px){
+  .image-gallery__list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
