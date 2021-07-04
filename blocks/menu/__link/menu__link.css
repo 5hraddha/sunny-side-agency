@@ -8,3 +8,9 @@
   text-decoration: none;
   color: #fff;
 }
+
+@media screen and (max-width: 768px) {
+  .menu__link {
+    color: #000;
+  }
+}

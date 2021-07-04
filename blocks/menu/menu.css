@@ -7,3 +7,9 @@
   width: 100%;
   max-width: calc(1440px - 852px - 24px);
 }
+
+@media screen and (max-width: 768px) {
+  .menu {
+    justify-content: flex-end;
+  }
+}

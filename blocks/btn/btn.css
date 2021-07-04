@@ -12,3 +12,14 @@
   background-color: rgb(255, 255, 255, 0.3);
   color: rgb(255, 255, 255);
 }
+
+@media screen and (max-width: 768px) {
+  .btn {
+    background-color: rgb(255, 214, 0);;
+  }
+
+  .btn:hover {
+    background-color: rgb(255, 214, 0, 0.6);
+    color: rgb(0, 0, 0);
+  }
+}
