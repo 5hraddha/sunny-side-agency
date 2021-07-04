@@ -5,3 +5,9 @@
   width: 100%;
   max-width: 468px;
 }
+
+@media screen and (max-width: 768px) {
+  .article__content {
+    order: 1;
+  }
+}
