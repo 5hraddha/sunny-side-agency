@@ -1,0 +1,9 @@
+.footer__social-link {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+.footer__social-link:hover {
+  cursor: pointer;
+}
