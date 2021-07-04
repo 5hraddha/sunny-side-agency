@@ -1,18 +1,23 @@
+/* import google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500&family=Fraunces:wght@400;500;600;700&display=swap');
 
 @import url(../vendor/normalize.css);
 
+/* stylesheets for the block - page */
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__wrapper/page__wrapper.css);
 
+/* stylesheets for the block - hero */
 @import url(../blocks/hero/hero.css);
 @import url(../blocks/hero/__img/hero__img.css);
 @import url(../blocks/hero/__text/hero__text.css);
 @import url(../blocks/hero/__title/hero__title.css);
 
+/* stylesheets for the block - header */
 @import url(../blocks/header/header.css);
 
+/* stylesheets for the block - menu */
 @import url(../blocks/menu/menu.css);
 @import url(../blocks/menu/__item/menu__item.css);
 @import url(../blocks/menu/__link/menu__link.css);
@@ -20,12 +25,16 @@
 @import url(../blocks/menu/__list/menu__list.css);
 @import url(../blocks/menu/__list/_active/menu__list_active.css);
 
+/* stylesheets for the block - btn */
 @import url(../blocks/btn/btn.css);
 
+/* stylesheets for the block - logo */
 @import url(../blocks/logo/logo.css);
 
+/* stylesheets for the block - general */
 @import url(../blocks/general/general.css);
 
+/* stylesheets for the block - article */
 @import url(../blocks/article/article.css);
 @import url(../blocks/article/__content/article__content.css);
 @import url(../blocks/article/__img-item/article__img-item.css);
@@ -36,21 +45,26 @@
 @import url(../blocks/article/__para/article__para.css);
 @import url(../blocks/article/__title/article__title.css);
 
+/* stylesheets for the block - photo-and-graphics */
 @import url(../blocks/photo-and-graphics/photo-and-graphics.css);
 
+/* stylesheets for the block - photography */
 @import url(../blocks/photography/photography.css);
 @import url(../blocks/photography/__content/photography__content.css);
 @import url(../blocks/photography/__para/photography__para.css);
 @import url(../blocks/photography/__title/photography__title.css);
 
+/* stylesheets for the block - graphics */
 @import url(../blocks/graphics/graphics.css);
 @import url(../blocks/graphics/__content/graphics__content.css);
 @import url(../blocks/graphics/__para/graphics__para.css);
 @import url(../blocks/graphics/__title/graphics__title.css);
 
+/* stylesheets for the block - testimonials */
 @import url(../blocks/testimonials/testimonials.css);
 @import url(../blocks/testimonials/__title/testimonials__title.css);
 
+/* stylesheets for the block - cards */
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/card/card.css);
 @import url(../blocks/card/__client-details/card__client-details.css);
@@ -59,11 +73,13 @@
 @import url(../blocks/card/__img/card__img.css);
 @import url(../blocks/card/__testimony/card__testimony.css);
 
+/* stylesheets for the block - image-gallery */
 @import url(../blocks/image-gallery/image-gallery.css);
 @import url(../blocks/image-gallery/__img/image-gallery__img.css);
 @import url(../blocks/image-gallery/__list-item/image-gallery__list-item.css);
 @import url(../blocks/image-gallery/__list/image-gallery__list.css);
 
+/* stylesheets for the block - footer */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__menu/footer__menu.css);
 @import url(../blocks/footer/__logo/footer__logo.css);
@@ -71,6 +87,7 @@
 @import url(../blocks/footer/__social-link/footer__social-link.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 
+/* stylesheets for the block - hamburger */
 @import url(../blocks/hamburger/hamburger.css);
 @import url(../blocks/hamburger/_active/hamburger_active.css);
 @import url(../blocks/hamburger/__bar/hamburger__bar.css);
