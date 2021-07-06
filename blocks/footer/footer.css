@@ -9,3 +9,9 @@
   justify-content: center;
   background: rgb(144, 212, 197);
 }
+
+@media screen and (max-width: 768px){
+  .footer {
+    min-height: 425px;
+  }
+}

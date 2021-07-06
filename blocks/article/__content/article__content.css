@@ -1,4 +1,5 @@
 .article__content {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
   place-self: center;
@@ -6,8 +7,18 @@
   max-width: 468px;
 }
 
+@media screen and (max-width: 1000px) {
+  .article__content {
+    max-width: 80%;
+    order: 1;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .article__content {
-    order: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 }

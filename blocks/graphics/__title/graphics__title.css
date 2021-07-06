@@ -8,3 +8,9 @@
   color: rgb(12, 100, 83);
   text-align: center;
 }
+
+@media screen and (max-width: 768px) {
+  .graphics__title {
+    font-size: 35px;
+  }
+}

@@ -10,3 +10,11 @@
   background-size: 512px auto;
   background-position: center top;
 }
+
+@media screen and (max-width: 560px) {
+  .graphics {
+    padding: 30px;
+    background-image: url(../../images/mobile/image-graphic-design.jpg);
+    background-size: cover;
+  }
+}

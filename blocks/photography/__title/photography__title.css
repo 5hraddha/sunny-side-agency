@@ -8,3 +8,9 @@
   color: rgb(15, 71, 99);
   text-align: center;
 }
+
+@media screen and (max-width: 768px) {
+  .photography__title {
+    font-size: 35px;
+  }
+}

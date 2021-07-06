@@ -6,3 +6,10 @@
   font-weight: 400;
   color: #5a636c;
 }
+
+@media screen and (max-width: 768px) {
+  .article__para {
+    font-size: 20px;
+    text-align: center;
+  }
+}

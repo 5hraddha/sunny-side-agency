@@ -14,7 +14,7 @@
     <!-- page header and navigation -->
     <header class="header">
       <img class="logo" src="images/logo.svg" alt="Logo of the Sunny Side Agency">
-      <nav class="menu">
+      <nav class="menu header__menu">
         <ul class="menu__list">
           <li class="menu__item">
             <a class="menu__link" href="#">About</a>
@@ -54,15 +54,19 @@
             <p class="article__para">We are a full-service creative agency specializing in helping brands grow fast. Enage your clientsthrough compelling visuals that do most of the marketing for you.</p>
             <a class="article__link article__link_color_yellow" href="#" target="_blank">Learn more</a>
           </div>
-          <figure class="article__img">
+          <picture class="article__img">
+            <source media="(max-width: 768px)" srcset="images/mobile/image-transform.jpg">
+            <source media="(max-width: 1440px)" srcset="images/desktop/image-transform.jpg">
             <img class="article__img-item" src="images/desktop/image-transform.jpg" alt="An egg on yellow background">
-          </figure>
+          </picture>
         </article>
 
         <article class="article">
-          <figure class="article__img">
+          <picture class="article__img">
+            <source media="(max-width: 768px)" srcset="images/mobile/image-stand-out.jpg">
+            <source media="(max-width: 1440px)" srcset="images/desktop/image-stand-out.jpg">
             <img class="article__img-item" src="images/desktop/image-stand-out.jpg" alt="A soft red colored glass on a soft red background">
-          </figure>
+          </picture>
           <div class="article__content">
             <h2 class="article__title">Stand out to the right audience</h2>
             <p class="article__para">Using a collaborative formula of designers, researches, copywriters, we’ll build and extend your brand in digital places.</p>

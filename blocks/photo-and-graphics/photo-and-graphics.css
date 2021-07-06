@@ -5,3 +5,9 @@
   grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
   grid-auto-rows: minmax(720px, auto);
 }
+
+@media screen and (max-width: 500px) {
+  .photo-and-graphics {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+}

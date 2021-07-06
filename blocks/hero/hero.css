@@ -13,3 +13,12 @@
   background-size: 951px auto;
   background-position: center bottom;
 }
+
+@media screen and (max-width: 560px) {
+  .hero {
+    background-image: url(../../images/mobile/image-header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center bottom;
+  }
+}

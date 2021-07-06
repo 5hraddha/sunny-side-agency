@@ -6,3 +6,10 @@
   line-height: 1.242;
   font-weight: 700;
 }
+
+@media screen and (max-width: 768px) {
+  .article__title {
+    font-size: 35px;
+    text-align: center;
+  }
+}

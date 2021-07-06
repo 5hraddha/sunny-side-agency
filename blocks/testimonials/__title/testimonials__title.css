@@ -12,3 +12,24 @@
   letter-spacing: 8px;
   text-align: center;
 }
+
+@media screen and (max-width: 768px) {
+  .testimonials__title {
+    padding: 0 0 60px;
+    font-size: 35px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .testimonials__title {
+    padding: 0 0 40px;
+    font-size: 25px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .testimonials__title {
+    padding: 0 0 20px;
+    font-size: 20px;
+  }
+}

@@ -1,7 +1,7 @@
 // Select the elements from the DOM
 const hamburger = document.querySelector(".hamburger");
-const menuList = document.querySelector(".menu__list");
-const menuLinks = document.querySelectorAll(".menu__link");
+const menuList = document.querySelector(".header .menu__list");
+const menuLinks = document.querySelectorAll(".header .menu__link");
 
 // Function to toggle hamburger
 const toggleHamburger = () => {

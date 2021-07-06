@@ -7,3 +7,9 @@
   text-align: center;
   color: rgb(43, 93, 117);
 }
+
+@media screen and (max-width: 768px) {
+  .photography__para {
+    font-size: 20px;
+  }
+}

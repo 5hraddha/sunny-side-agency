@@ -14,3 +14,9 @@
 .article__link:hover {
   cursor: pointer;
 }
+
+@media screen and (max-width: 768px) {
+  .article__link {
+    font-size: 20px;
+  }
+}

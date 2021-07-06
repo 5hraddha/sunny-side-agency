@@ -1,5 +1,6 @@
 .header {
   box-sizing: border-box;
+  position: relative;
   margin: 0;
   padding: 21px 24px;
   display: flex;
