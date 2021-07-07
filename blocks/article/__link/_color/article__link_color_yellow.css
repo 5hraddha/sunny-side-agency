@@ -22,8 +22,6 @@
 
 @media screen and (max-width: 768px) {
   .article__link_color_yellow::before {
-    left: 10%;
     height: 5px;
-    width: 80%;
     border-radius: 10px;
   }

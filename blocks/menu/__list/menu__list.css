@@ -10,7 +10,7 @@
 }
 
 @media screen and (max-width: 768px) {
-  .menu__list {
+  .header__menu > .menu__list {
     padding: 40px 20px;
     position: absolute;
     left: -100%; 
