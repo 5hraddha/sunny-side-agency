@@ -30,5 +30,7 @@ Sunnyside is a full-service creative agency specialized in helping brands grow f
 The website is using [BEM — Block Element Modifier](https://en.bem.info/methodology/quick-start/) methodology to create reusable and understandable components in CSS. The idea behind it is to divide the user interface into independent blocks. This makes interface development easy and fast and it allows reuse of existing code without copying and pasting. We are also using [Nested BEM File structure organization](https://en.bem.info/methodology/filestructure/#nested) for CSS.
 
 ## Demo
-Want to see a demo? Click [here](https://5hraddha.github.io/sunny-side-agency/)
+Want to see a demo? Click [here]  
+
+(https://5hraddha.github.io/sunny-side-agency/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5hraddha%2Fsunny-side-agency&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
