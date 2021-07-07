@@ -26,7 +26,6 @@ Sunnyside is a full-service creative agency specialized in helping brands grow f
 2. [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 3. [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 4. Art direction for different screen sizes.
-5. Native lazy loading of the images.
 
 The website is using [BEM — Block Element Modifier](https://en.bem.info/methodology/quick-start/) methodology to create reusable and understandable components in CSS. The idea behind it is to divide the user interface into independent blocks. This makes interface development easy and fast and it allows reuse of existing code without copying and pasting. We are also using [Nested BEM File structure organization](https://en.bem.info/methodology/filestructure/#nested) for CSS.
 
